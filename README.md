@@ -1,0 +1,2 @@
+# Employee-Attrition-Prediction-with-Randomized-Grid-Search-and-Decision-Trees
+This repository contains code and data for a decision tree-based model that predicts employee attrition. The model utilizes employee attributes like job role, department, salary, and performance ratings. It also demonstrates the use of Randomized Grid Search to optimize hyperparameters, resulting in improved predictive accuracy.
